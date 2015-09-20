@@ -1,0 +1,2 @@
+Updated podspec for Alamofire-SwiftyJSON
+pod 'Alamofire-SwiftyJSON', :podspec => 'https://raw.githubusercontent.com/pdutourgeerling/Alamofire-SwiftyJSON-Podspec/master/Alamofire-SwiftyJSON.podspec'
